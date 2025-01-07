@@ -15,7 +15,7 @@ python3 -m venv env
 ### enter environment
 
 ```sh
-source/env/activate
+source env/bin/activate
 ```
 
 ### exit environment
